@@ -39,4 +39,4 @@ I'm an experienced web developer with over 11 years in the industry, specializin
 ## 📬 Get in Touch
 
 - Twitter: [@ryanjordandev](https://twitter.com/ryanjordandev)
-- Email: [ryan@ryanjordan.me](mailto:ryan@ryanjordan.me)
+- Email: [me@ryanjordan.dev](mailto:me@ryanjordan.dev)
