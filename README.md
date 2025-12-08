@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Ryan!
 
-I'm an experienced web developer with over 11 years in the industry, specializing in Angular. Currently, I'm expanding my horizons by diving into React and exploring the full-stack capabilities of NextJS. Beyond the web, I'm also venturing into the fascinating world of Raspberry Pi and AI/ML.
+I'm an experienced web developer with over 13 years in the industry, specializing in React and Angular. Currently, I'm expanding my horizons by exploring the full-stack capabilities of NextJS. Beyond the web, I'm also venturing into the fascinating world of AI/ML.
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
 
@@ -16,7 +16,7 @@ I'm an experienced web developer with over 11 years in the industry, specializin
 
 - **Angular**: With over a decade of experience, Angular has been my go-to framework for building robust web applications.
 - **React & NextJS**: On a journey to master the React ecosystem and leverage the power of NextJS for full-stack development.
-- **Raspberry Pi & AI/ML**: Exploring the endless possibilities with Raspberry Pi and getting acquainted with the world of Artificial Intelligence and Machine Learning.
+- **AI/ML**: Exploring the endless possibilities with Artificial Intelligence and Machine Learning.
 
 ## 🌟 Featured Projects
 
