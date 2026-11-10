@@ -70,7 +70,7 @@ I'm a Senior Full-Stack Developer with 13 years of building software. I started 
 - **Digital Forensics**: Working toward the C)DFE (Certified Digital Forensics Examiner).
 
 <!-- Optional TryHackMe badge. Delete this line if you'd rather not show your THM profile yet. -->
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/[thm-username].png)](https://tryhackme.com/p/[thm-username])
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/VoodooSix.png)](https://tryhackme.com/p/VoodooSix)
 
 ## 📊 GitHub Stats
 
@@ -87,4 +87,4 @@ I'm a Senior Full-Stack Developer with 13 years of building software. I started 
 ## 📬 Get in Touch
 
 - X: [@itsryanjordan](https://x.com/itsryanjordan)
-- LinkedIn: [Ryan Jordan](https://www.linkedin.com/in/[linkedin-handle])
+- LinkedIn: [Ryan Jordan](https://www.linkedin.com/in/ryan-jordan-86712a5)
